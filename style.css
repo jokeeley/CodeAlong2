@@ -1,3 +1,26 @@
-.logo{
+.logo {
     width: 130px;
+}
+
+.cont {
+    margin: 20px 150px;
+}
+
+.cont .cont1 {
+    margin-top: 80px;
+}
+
+.model {
+    width: 300px;
+}
+
+h1 {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, #d2d20f, #eb9c0b, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.big-text {
+    font-size: 40px;
+    margin: 10px 0;
 }
